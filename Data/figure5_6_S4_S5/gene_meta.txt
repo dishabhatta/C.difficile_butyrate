@@ -1,0 +1,13 @@
+sample	time	condition	replicate	type
+A1_S61_early_BHI_1	early	BHI	1	paired-end
+A2_S62_early_BHI_2	early	BHI	2	paired-end
+A3_S63_early_BHI_3	early	BHI	3	paired-end
+A7_S64_late_BHI_1	late	BHI	1	paired-end
+A8_S65_late_BHI_2	late	BHI	2	paired-end
+A9_S66_late_BHI_3	late	BHI	3	paired-end
+B1_S67_early_butyrate_1	early	butyrate	1	paired-end
+B2_S68_early_Butyrate_2	early	butyrate	2	paired-end
+B3_S69_early_Butyrate_3	early	butyrate	3	paired-end
+B7_S70_late_Butyrate_1	late	butyrate	1	paired-end
+B8_S71_late_Butyrate_2	late	butyrate	2	paired-end
+B9_S72_late_Butyrate_3	late	butyrate	3	paired-end
